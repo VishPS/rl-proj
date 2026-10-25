@@ -1,0 +1,1 @@
+{"ticker": "AAPL", "window": 10, "init_cash": 10000.0, "fee": 0.001, "features": ["sma_ratio", "rsi", "macd_delta"]}

@@ -1,0 +1,9 @@
+stable-baselines3
+gymnasium
+yfinance
+pandas
+numpy
+matplotlib
+streamlit
+torch
+pytest
